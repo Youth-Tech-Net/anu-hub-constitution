@@ -1,0 +1,52 @@
+name: Build and deploy
+
+on:
+  push:
+    branches: ['*']
+  # Allow manual runs from the Actions tab
+  workflow_dispatch:
+
+# Required for GitHub Pages deployment
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Only allow one deployment at a time; don't cancel in-progress runs
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Australia/Canberra
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Full history needed so git log can generate the revision history
+          fetch-depth: 0
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Build documents
+        run: make
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: html/
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

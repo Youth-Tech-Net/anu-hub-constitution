@@ -1,0 +1,86 @@
+/* Subsection numbers look like (1) instead of 1. */
+
+@counter-style paren-decimal {
+	system: extends decimal;
+	prefix: "(";
+	suffix: ") ";
+}
+
+@counter-style paren-lower-alpha {
+	system: extends lower-alpha;
+	prefix: "(";
+	suffix: ") ";
+}
+
+@counter-style paren-lower-roman {
+	system: extends lower-roman;
+	prefix: "(";
+	suffix: ") ";
+}
+
+ol[type="1"] {
+	list-style-type: paren-decimal;
+}
+
+ol[type="a"] {
+	list-style-type: paren-lower-alpha;
+}
+
+ol[type="i"] {
+	list-style-type: paren-lower-roman;
+}
+
+/* Terms being defined are bold and italic */
+
+.glossentry, .firstterm {
+	font-weight: bold;
+	font-style: italic;
+}
+
+/* Decrease font sizes across the board (approx. those used by Cth. legislation) */
+
+:root {
+	--default-font-size: 11pt;
+}
+
+h1 {
+	font-size: 20pt;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+.article > header > .author > h3 {
+	font-size: 16pt;
+}
+
+/* Give the revision history some breathing room */
+
+.article > header > .revhistory {
+	margin-top: 2rem;
+}
+
+@media screen {
+	.article > header > .revhistory {
+		max-width: 50rem;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+/* We don't use the author field in revhistory; let other columns use the space */
+
+.revhistory table {
+	table-layout: auto;
+}
+
+.revhistory col.author {
+	display: none;
+}
+
+.revhistory table tr td:nth-child(3) {
+	display: none;
+}

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+	<info>
+		<title>Constitution</title>
+		<author>
+			<orgname>Youth Tech Net ANU Hub</orgname>
+		</author>
+		<abstract>
+			<para>Youth Tech Net ANU Hub acknowledges the traditional custodians of the land on which ANU and the Club operate from, the Ngunnawal and Ngambri peoples. We recognise the continuing connection to lands, waters, and communities of all Aboriginal and Torres Strait Islander people. We pay our respect to Elders, past and present, and commit to standing with our First Nations People.</para>
+		</abstract>
+		<xi:include href="constitution-revhistory.xml"/>
+	</info>
+	<section>
+		<title>Name</title>
+		<simpara>The official name of the club to which this Constitution applies is "Youth Tech Net ANU Hub".</simpara>
+	</section>
+	<section>
+		<title>Interpretation</title>
+		<para>
+			In this Constitution, unless contrary intention appears:
+			<glosslist>
+				<glossentry>
+					<glossterm>Academic day</glossterm>
+					<glossdef><simpara>means a 24-hour period during any day or days that do not fall on a weekend or public holiday, and that fall during a Teaching Period of the Academic Colleges.</simpara></glossdef>
+				</glossentry>
+				<glossentry>
+					<glossterm>ANUSA</glossterm>
+					<glossdef><simpara>means the Australian National University Students' Association Inc.</simpara></glossdef>
+				</glossentry>
+				<glossentry>
+					<glossterm>Club</glossterm>
+					<glossdef><simpara>means Youth Tech Net ANU Hub.</simpara></glossdef>
+				</glossentry>
+				<glossentry>
+					<glossterm>Executive</glossterm>
+					<glossdef><simpara>means the Executive Committee of the <glossterm>Club</glossterm>.</simpara></glossdef>
+				</glossentry>
+				<glossentry>
+					<glossterm>Meeting</glossterm>
+					<glossdef><simpara>means a General Meeting, Special General Meeting, or Annual General Meeting of the <glossterm>Club</glossterm>.</simpara></glossdef>
+				</glossentry>
+				<glossentry>
+					<glossterm>Member</glossterm>
+					<glossdef><simpara>means any full or associate member of the <glossterm>Club</glossterm>.</simpara></glossdef>
+				</glossentry>
+				<glossentry>
+					<glossterm>Student</glossterm>
+					<glossdef><simpara>means any student of the <glossterm>University</glossterm> who retains membership of <glossterm>ANUSA</glossterm>.</simpara></glossdef>
+				</glossentry>
+				<glossentry>
+					<glossterm>University</glossterm>
+					<glossdef><simpara>means the Australian National University.</simpara></glossdef>
+				</glossentry>
+			</glosslist>
+		</para>
+		<orderedlist>
+			<listitem xml:id="clubs-officer-appeal">
+				<simpara>Any interpretation of this constitution or the resolution of any dispute under it may be appealed to the ANUSA Clubs Officer. The decision of the ANUSA Clubs Officer may be appealed by the means set out in the constitution and regulations of <glossterm>ANUSA</glossterm>.</simpara>
+			</listitem>
+		</orderedlist>
+	</section>
+	<section>
+		<title>Affiliations</title>
+		<orderedlist>
+			<listitem>
+				<simpara>The <glossterm>Club</glossterm> is affiliated to <glossterm>ANUSA</glossterm> and anything in this Constitution which is inconsistent with <glossterm>ANUSA</glossterm>'s Clubs Regulations and Policies is null and void to the extent of that inconsistency.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>The <glossterm>Club</glossterm> must fulfil its obligations under the <glossterm>ANUSA</glossterm> Clubs Regulations and Policies.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>The <glossterm>Club</glossterm> is recognised as a University Hub of Youth Tech Net Australia.</simpara>
+			</listitem>
+		</orderedlist>
+	</section>
+	<section>
+		<title>Aims and Objectives</title>
+		<para>The aims and objectives of the <glossterm>Club</glossterm> are to:</para>
+		<orderedlist>
+			<listitem>
+				<simpara>Provide an open discussion forum for students interested in the intersection of society, technology, and technology policy;</simpara>
+			</listitem>
+			<listitem>
+				<simpara>Run informational and educational events for members about technology and society issues, such as seminars, workshops, reading clubs, film screenings, and debates;</simpara>
+			</listitem>
+			<listitem>
+				<simpara>Platform student perspectives on technology policy issues by publishing their work on Youth Tech Net's website, which may include white papers, policy briefs, opinion pieces, articles, and research projects;</simpara>
+			</listitem>
+			<listitem>
+				<simpara>Facilitate the pursuit of research projects by members.</simpara>
+			</listitem>
+		</orderedlist>
+	</section>
+	<section>
+		<title>Membership</title>
+		<orderedlist>
+			<listitem>
+				<simpara>Full membership is open to all currently enrolled ANU students who have paid the relevant subscription fee.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>Associate membership is open to all other persons, subject to approval by the <glossterm>Executive</glossterm>, who have paid the relevant subscription fee.</simpara>
+			</listitem>
+			<listitem xml:id="membership-fee">
+				<simpara>The subscription fee for full membership is determined by the <glossterm>Executive</glossterm>, but may not be greater than $20 for students, unless the <glossterm>Club</glossterm> applies for an exemption from the ANUSA Clubs Officer.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>Membership is valid for the year in which the subscription fee is paid.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>Membership may be suspended or withdrawn by a resolution carried by a two-thirds majority of full members present and voting at a General Meeting. Appeals against such a decision may be made as outlined in <xref linkend="clubs-officer-appeal"/>.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>Associate members are ineligible to vote at any General <glossterm>Meeting</glossterm>, may be charged a higher membership fee by the <glossterm>Club</glossterm>, and may be charged a higher fee to attend events staged by the <glossterm>Club</glossterm>, but otherwise are to have the same rights as full members.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>A roll recording the name and membership number of all <glossterm baseform="Member">Club members</glossterm>, and the student number of all full members, is to be held and kept up to date by the <glossterm>Executive</glossterm>.</simpara>
+			</listitem>
+		</orderedlist>
+	</section>
+	<section>
+		<title>The Executive</title>
+		<orderedlist>
+			<listitem>
+				<simpara>The <glossterm>Club</glossterm>'s <glossterm>Executive</glossterm> consists of three members, who are —</simpara>
+				<orderedlist>
+					<listitem>
+						<simpara>the President; and</simpara>
+					</listitem>
+					<listitem>
+						<simpara>the Treasurer; and</simpara>
+					</listitem>
+					<listitem>
+						<simpara>the Secretary.</simpara>
+					</listitem>
+				</orderedlist>
+			</listitem>
+			<listitem>
+				<simpara>The <glossterm>Executive</glossterm> includes such other members as the <glossterm>Club</glossterm> from time to time determines.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>All members of the <glossterm>Executive</glossterm> must be either full or associate members, and an absolute majority of the <glossterm>Executive</glossterm> must be full members.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>The <glossterm>Executive</glossterm> is to be elected at each Annual General Meeting by a vote involving the full members, but not the associate members, of the <glossterm>Club</glossterm>.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>In the event of a dispute between <glossterm>Executive</glossterm> members, or between the <glossterm>Executive</glossterm> and the members of the <glossterm>Club</glossterm>, the President has a duty to make it known to the parties to the dispute that an appeal can be brought to the Clubs Officer for any decision made by the <glossterm>Club</glossterm>'s <glossterm>Executive</glossterm> team.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>A meeting of the <glossterm>Executive</glossterm> is to be held at least once during each Teaching Period of the Academic year, when and where the <glossterm>Executive</glossterm> sees fit.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>The quorum for a meeting of the <glossterm>Executive</glossterm> is the next whole number above half the number of members of the current <glossterm>Executive</glossterm>.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>The <glossterm>Executive</glossterm> has the power to fill any vacancy in the <glossterm>Executive</glossterm> that may occur between Annual General Meetings.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>The <glossterm>Executive</glossterm> has the power to do all things it believes to be in the best interests of the <glossterm>Club</glossterm>, subject to the provisions of this Constitution and the <glossterm>ANUSA</glossterm> Clubs Regulations and Policies.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>Individual members of the <glossterm>Executive</glossterm> are bound by a resolution of a quorate <glossterm>Executive</glossterm> meeting to the extent that the resolution directly relates to their activities as a member of the <glossterm>Executive</glossterm>.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>Where all or a majority of the <glossterm>Executive</glossterm> positions are not filled at a general meeting, the Clubs Council may appoint the remaining positions on an interim basis or dissolve the <glossterm>Club</glossterm>.</simpara>
+			</listitem>
+			<listitem xml:id="clubs-council-refill">
+				<simpara>The <glossterm>Club</glossterm> shall, as soon as is practicable, hold another general meeting at which the positions filled by the Clubs Council shall be filled by election, or dissolve the <glossterm>Club</glossterm>.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>Upon failure to elect a majority of <glossterm>Executive</glossterm> positions at the General Meeting referred to in <xref linkend="clubs-council-refill"/>, not inclusive of those filled by Clubs Council, the <glossterm>Club</glossterm> shall be dissolved.</simpara>
+			</listitem>
+		</orderedlist>
+	</section>
+	<section>
+		<title>General Meetings</title>
+		<orderedlist>
+			<listitem>
+				<simpara>An Annual General Meeting is to be held at least once each year, not more than 14 months after the previous Annual General Meeting, at which the members of the <glossterm>Executive</glossterm> are to be elected, and an Annual Report, statements of income and expenditure, and a current balance sheet are to be presented by the outgoing <glossterm>Executive</glossterm>.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>A General <glossterm>Meeting</glossterm> may be convened no more than once during each Teaching Period of the Academic year at the discretion of the <glossterm>Executive</glossterm>.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>A Special General Meeting must be called by the <glossterm>Executive</glossterm> within ten <glossterm baseform="Academic day">academic days</glossterm> of being presented with a petition signed by ten members setting out the purpose for which such a meeting is requested.</simpara>
+			</listitem>
+			<listitem xml:id="removal-resolution">
+				<simpara>A resolution of a quorate General <glossterm>Meeting</glossterm> removing an <glossterm>Executive</glossterm> member from office will be successful if passed by a two-thirds majority.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>The quorum for a General <glossterm>Meeting</glossterm> is five members.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>Except as set out in <xref linkend="membership-fee"/>, <xref linkend="removal-resolution"/>, and <xref linkend="amendment-notice"/> of this Constitution, decisions of a General <glossterm>Meeting</glossterm> are by a simple majority of full members present in person who cast a vote.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>The <glossterm>Club</glossterm> President must, where possible, Chair, or appoint another <glossterm>Club</glossterm> member to Chair, a General <glossterm>Meeting</glossterm>. Where this is not done, those full members present must elect a <glossterm>Club</glossterm> member to Chair.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>The Chair has a deliberative and casting vote.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>Any resolution of a quorate General <glossterm>Meeting</glossterm> binds all members of the <glossterm>Executive</glossterm> to the extent that the resolution directly relates to their activities as a member of the <glossterm>Executive</glossterm>.</simpara>
+			</listitem>
+		</orderedlist>
+	</section>
+	<section>
+		<title>Finance</title>
+		<orderedlist>
+			<listitem>
+				<simpara>The assets and income of the <glossterm>Club</glossterm> shall be used only for the promotion of its objectives and no portion may be paid or transferred directly or indirectly to members except as —</simpara>
+				<orderedlist>
+					<listitem>
+						<simpara>bona fide remuneration for services rendered by the members to the <glossterm>Club</glossterm>; or</simpara>
+					</listitem>
+					<listitem>
+						<simpara>repayment of expenses incurred on behalf of the <glossterm>Club</glossterm>.</simpara>
+					</listitem>
+				</orderedlist>
+			</listitem>
+			<listitem>
+				<simpara>The <glossterm>Club</glossterm>'s bank account must —</simpara>
+				<orderedlist>
+					<listitem>
+						<simpara>be only for the use of the <glossterm>Club</glossterm>;</simpara>
+					</listitem>
+					<listitem>
+						<simpara>be registered under the <glossterm>Club</glossterm>'s name;</simpara>
+					</listitem>
+					<listitem>
+						<simpara>have <glossterm>ANUSA</glossterm>'s address as the registered address for the bank account;</simpara>
+					</listitem>
+					<listitem>
+						<simpara>be a two-to-sign or similar account; and</simpara>
+					</listitem>
+					<listitem>
+						<simpara>have exactly three <glossterm>Club</glossterm> executive members (trustees) authorised to operate the account.</simpara>
+					</listitem>
+				</orderedlist>
+			</listitem>
+			<listitem>
+				<simpara>The Trustees of the <glossterm>Club</glossterm> are the President, Treasurer, and Secretary.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>The Trustees have a legal duty to ensure that <glossterm>Club</glossterm> funds are being used in the best interests of the <glossterm>Club</glossterm>, which is to be viewed from the perspective of the <glossterm>Club</glossterm> as an independent entity, and not from the perspective of members.</simpara>
+			</listitem>
+		</orderedlist>
+	</section>
+	<section>
+		<title>Policies</title>
+		<orderedlist>
+			<listitem>
+				<simpara>Subject to this Constitution, the <glossterm>Executive</glossterm> may by a simple majority at an <glossterm>Executive</glossterm> meeting make or amend <glossterm>Club</glossterm> policies as would assist the convenient conduct of the <glossterm>Club</glossterm>'s business.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>Policies must be made available to members.</simpara>
+			</listitem>
+		</orderedlist>
+	</section>
+	<section>
+		<title>Dissolution of the Club</title>
+		<orderedlist>
+			<listitem>
+				<simpara>The <glossterm>Club</glossterm> can be dissolved by decision of the current membership at a general meeting, or when the <glossterm>Club</glossterm> ceases to operate due to no members being elected to the <glossterm>Executive</glossterm> positions or appointed by the Clubs Officer.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>On dissolution, disaffiliation, or failure to re-affiliate by the end of the first teaching period, any net assets, property, funds or money shall not be distributed among the members but shall become the property of <glossterm>ANUSA</glossterm> and be given or transferred to <glossterm>ANUSA</glossterm>; except for funds sourced by means other than grants from <glossterm>ANUSA</glossterm> in the current and previous calendar year. Such other funds must be donated to a not-for-profit association with objects similar to those of the <glossterm>Club</glossterm>, or to <glossterm>ANUSA</glossterm>.</simpara>
+			</listitem>
+		</orderedlist>
+	</section>
+	<section>
+		<title>Amending the Constitution</title>
+		<orderedlist>
+			<listitem xml:id="amendment-notice">
+				<simpara>No amendments to this constitution shall be validly enacted except where the Clubs Council Executive is given notice by email of the amendment at least 5 days prior to the moving of the amendment. The email shall request an interpretation as to whether the proposed amendment will affect the continued eligibility of the <glossterm>Club</glossterm> for affiliation.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>This Constitution may be amended by a resolution carried by a two-thirds majority of full members present and voting at a General <glossterm>Meeting</glossterm>.</simpara>
+			</listitem>
+			<listitem>
+				<simpara>Notice of proposed amendments must be given to members at least 5 calendar days prior to the General <glossterm>Meeting</glossterm>.</simpara>
+			</listitem>
+		</orderedlist>
+	</section>
+</article>

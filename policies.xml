@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+	<info>
+		<title>Policies</title>
+		<author>
+			<orgname>Youth Tech Net ANU Hub</orgname>
+		</author>
+		<xi:include href="policies-revhistory.xml"/>
+	</info>
+	<section>
+		<title>Definitions</title>
+		<para>
+			In these policies, words and phrases have the meanings defined in the constitution of the Club.
+		</para>
+	</section>
+</article>
